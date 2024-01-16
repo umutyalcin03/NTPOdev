@@ -84,10 +84,9 @@ namespace OkulApp.DAL
             }
             catch (Exception)
             {
-                
+
                 throw;
-            }
-            finally { Dispose(); }
+            } 
 
         }
         
