@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34I3aslvMcdH7HE4m7njqFrMQoam+cND3d01U8AOxDI+GCd3Q7WuhHA72Y1q/vEdglOr27lj2sLU1oZXKywoIA==",
+  "dgSpecHash": "tI6AjIsD6cPxWm4sXa18oIAgyDMvuSMYzmUr5dXqOf9DFXK13LQd0aFJg3AgEr/Npw3X0awcaU0Hdd4hpABjMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\OkulAppSonrasiii-main\\OkulApp.Model\\OkulApp.Model.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\NTPOdev\\NTPOdev\\OkulApp.Model\\OkulApp.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

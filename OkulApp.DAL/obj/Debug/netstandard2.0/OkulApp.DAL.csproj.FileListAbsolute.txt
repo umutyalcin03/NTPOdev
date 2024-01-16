@@ -62,3 +62,13 @@ C:\Users\LENOVO\Desktop\OkulAppSonrasiii-main\OkulApp.DAL\obj\Debug\netstandard2
 C:\Users\LENOVO\Desktop\OkulAppSonrasiii-main\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\Desktop\OkulAppSonrasiii-main\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.dll
 C:\Users\LENOVO\Desktop\OkulAppSonrasiii-main\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.pdb
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\bin\Debug\netstandard2.0\OkulApp.DAL.deps.json
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\bin\Debug\netstandard2.0\OkulApp.DAL.dll
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\bin\Debug\netstandard2.0\OkulApp.DAL.pdb
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.dll
+C:\Users\LENOVO\Desktop\NTPOdev\NTPOdev\OkulApp.DAL\obj\Debug\netstandard2.0\OkulApp.DAL.pdb

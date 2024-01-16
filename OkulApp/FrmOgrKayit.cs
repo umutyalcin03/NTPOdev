@@ -47,7 +47,7 @@ namespace OkulApp
                         MessageBox.Show("Bu Numara daha önce kaydedilmiş!! ");
                         break;
                     default:
-                        MessageBox.Show("Veritabanı Hatası!");
+                        MessageBox.Show("Veritabanı Hatası!" + ex.Message);
                         break;
                 }
             }
