@@ -17,10 +17,10 @@ namespace OkulApp.BLL
             try
             {
                 SqlParameter[] p = {
-                                  new SqlParameter("@Ad",ogr.Ad),
-                                  new SqlParameter("@Soyad",ogr.Soyad),
-                                  new SqlParameter("@Numara",ogr.Numara)
-                            };
+                    new SqlParameter("@Ad",ogr.Ad),
+                    new SqlParameter("@Soyad",ogr.Soyad),
+                    new SqlParameter("@Numara",ogr.Numara)
+                };
 
                 
                 return hlp.ExecuteNonQuery("Insert into tbl_Ogrenciler (Ad,Soyad,Numara) values (@Ad,@Soyad,@Numara)", p) > 0;
@@ -69,7 +69,10 @@ namespace OkulApp.BLL
 
                 throw;
             }
-            finally { hlp.Dispose(); }
+            finally 
+            {
+                hlp.Dispose(); 
+            }
         }
         public bool OgrenciSil(int id)
         {

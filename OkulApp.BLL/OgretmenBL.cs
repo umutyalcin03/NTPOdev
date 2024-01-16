@@ -19,10 +19,10 @@ namespace OkulApp.BLL
             try
             {
                 SqlParameter[] p = {
-                                  new SqlParameter("@Ad",ogretmen.Ad),
-                                  new SqlParameter("@Soyad",ogretmen.Soyad),
-                                  new SqlParameter("@TCKimlik",ogretmen.TCKimlik)
-                            };
+                    new SqlParameter("@Ad",ogretmen.Ad),
+                    new SqlParameter("@Soyad",ogretmen.Soyad),
+                    new SqlParameter("@TCKimlik",ogretmen.TCKimlik)
+                };
 
                 
                 return hlp.ExecuteNonQuery("Insert into TblOgretmenler (Ad,Soyad,TCKimlik) values (@Ad,@Soyad,@TCKimlik)", p) > 0;
