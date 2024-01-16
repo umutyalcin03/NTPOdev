@@ -67,6 +67,11 @@ namespace OkulApp.DAL
             {
                 throw;
             }
+
+            finally 
+            {
+                Dispose();
+            }
         }
 
         public SqlDataReader ExecuteReader(string cmdtext, SqlParameter[] p = null)
